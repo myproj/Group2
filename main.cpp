@@ -4,7 +4,7 @@
 using namespace std;
 int main(){
     print_hello();
-    printf("\n");
+    cout<<endl;
     printf("The factorial of 5 is %d\n", factorial(5));
     return 0;
 }
